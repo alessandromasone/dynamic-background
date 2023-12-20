@@ -1,4 +1,4 @@
-# Dynamic-background
+# Dynamic background
 
 ## Descrizione
 Dynamic-background è un'applicativo sviluppato per consentire agli utenti di impostare automaticamente uno sfondo dinamico sul loro desktop. L'applicativo controlla periodicamente un'immagine di sfondo da un URL specificato o da un URL predefinito e la imposta come sfondo del desktop. In questo modo, gli utenti possono godere di uno sfondo sempre nuovo e interessante senza doverlo cambiare manualmente.
