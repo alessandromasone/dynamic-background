@@ -39,9 +39,9 @@ Per installare tutte le dipendenze necessarie per l'applicazione (incluso PyInst
 
 **Installare tutte le dipendenze** utilizzando il comando `pip`:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
 Questo comando installerà tutte le librerie elencate nel file `requirements.txt` in un colpo solo, consentendo di preparare l'ambiente per l'esecuzione o la creazione dell'eseguibile.
 
