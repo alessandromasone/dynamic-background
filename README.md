@@ -107,7 +107,7 @@ In questo caso, l'URL usato per scaricare le immagini sarà quello di **Picsum P
 - **Personalizzare l'URL dell'immagine**:
 
     ```bash
-    wallpaper_changer.exe -u "https://example.com/{screen_width}/{screen_height}"
+    wallpaper_changer.exe -u "https://picsum.photos/{screen_width}/{screen_height}"
     ```
 
 - **Impostare l'intervallo di cambio dello sfondo** (in secondi):
